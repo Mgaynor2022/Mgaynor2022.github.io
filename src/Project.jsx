@@ -19,7 +19,7 @@ export default function Project(){
                                 <a href="https://github.com/Mgaynor2022/VSchool-Assignments/tree/main/level%204/capstoneProject/movieApp">
                                 <button class="py-3 px-5 mt-5 text-sm text-center text-white bg-black rounded-lg  sm:w-fit hover:border-gray-300  focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">GitHub Link</button>
                                 </a>
-                                <a href="">
+                                <a href="https://github.com/Mgaynor2022/petAdoptionApp">
                                 <button class="py-3 px-5 mt-5 text-sm text-center text-white bg-black rounded-lg  sm:w-fit hover:border-gray-300 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">App Link</button>
                                 </a>
                             </div>
@@ -36,7 +36,7 @@ export default function Project(){
                             for adoption all within a local server.  
                         </p>
                         <div class="flex flex-wrap justify-between p-2 ">
-                            <a>
+                            <a href="https://github.com/Mgaynor2022/petAdoptionApp">
                             <button class="py-3 px-5 mt-5 text-sm text-center text-white bg-black rounded-lg  sm:w-fit hover:border-gray-300  focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">GitHub Link</button>
                             </a>
                             <button class="py-3 px-5 mt-5 text-sm text-center text-white bg-black rounded-lg  sm:w-fit hover:border-gray-300 focus:ring-4 focus:outline-none focus:ring-primary-300 dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">App Link</button>
