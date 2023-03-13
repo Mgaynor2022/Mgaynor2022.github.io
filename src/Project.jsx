@@ -9,7 +9,7 @@ export default function Project(){
             <div class="flex justify-center -mx-2">	
                     <div class="w-full p-2">
                         <a href="#" class="block mb-8 bg-black hover:bg-gray-700">
-                            <img src="./InfoMovie.png" href="https://github.com/Mgaynor2022/VSchool-Assignments/tree/main/level%204/capstoneProject/movieApp"
+                            <img src="src/InfoMovie.png" href="https://github.com/Mgaynor2022/VSchool-Assignments/tree/main/level%204/capstoneProject/movieApp"
                              class="w-200 h-200 opacity-75" />
                         </a>
                         <a href="https://github.com/Mgaynor2022/VSchool-Assignments/tree/main/level%204/capstoneProject/movieApp" class="block text-xl text-center">InfoMovie App</a>
@@ -27,7 +27,7 @@ export default function Project(){
                     <div class="w-full p-2 ml-10">
                     
                          <a href="#" class="block mb-8 bg-black hover:bg-gray-700">
-                            <img src="./AdoptAPet.png" class="w-200 h-200 opacity-75" />
+                            <img src="src/AdoptAPet.png" class="w-200 h-200 opacity-75" />
                         </a>
                         
                         <a href="https://github.com/Mgaynor2022/VSchool-Assignments/tree/main/level%204/capstoneProject/movieApp" class="block text-xl text-center">AdoptAPet App</a>
