@@ -9,7 +9,7 @@ export default function Home(){
 			<div class=" mb-12">
 				<h1 class="text-3xl lg:text-4xl text-center mb-6 tracking-wider">About Me</h1>
 				
-					<img src= "src/IMG_1369.jpeg" class="ml-44 w-2/5 block ml-auto mr-auto mb-8  "/>	
+					<img src= "./IMG_1369.jpeg" class="ml-44 w-2/5 block ml-auto mr-auto mb-8  "/>	
 				
 				<p class="tracking-wide text-sm mb-6 leading-relaxed mx-auto max-w-xl text-center">
 					Hello, my name is Michael Gaynor im a Air Force Veteran, College Graduate and now im a  Software Developer.  <br class="hidden md:block" />
